@@ -1,23 +1,29 @@
-## Prazer, sou Pedro Vitor.
+## Olá! Prazer, sou Pedro Vitor 👋
 
-Sou Pedro, desenvolvedor back-end com conhecimento em banco de dados, chatbots e análise de dados. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
-  ##
+Sou desenvolvedor Back-end e estudante de Análise e Desenvolvimento de Sistemas. Gosto de unir código e infraestrutura para resolver problemas reais e otimizar processos.
+
+Tenho forte interesse em automação e produtividade, atuando com **banco de dados**, **análise de dados** e a integração de **Inteligências Artificiais** (como criação de chatbots e automação de relatórios via LLMs). Além do software, possuo visão sistêmica e experiência prática com infraestrutura de redes e hardwares de segurança corporativa.
+
+### 🛠 Tecnologias e Ferramentas
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;
   
-## tecnologias e ferramentas
-
- <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-django" height="30" width="40" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4">
-  <img align="center" alt="Pedro-django" height="30" width="40" src="https://user-images.githubusercontent.com/11978772/40430854-46e62868-5e63-11e8-9fac-920ee4ef5237.png">
-  <img align="center" alt="Pedro-django" height="30" width="40" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" title="Django" />&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
 </div>
 
-##
+<br>
+
+### 📫 Como me encontrar
 
 <div> 
-  <a href="https://www.instagram.com/_pedrov_06?igsh=MWgzbDRndmp0aTFyeQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedrovitorcesario@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  <a href="https://www.instagram.com/_pedrov_06?igsh=MWgzbDRndmp0aTFyeQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:pedrovitorcesario@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
